@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Graphic Design Basics",
+      "slug": "graphic-design-basics",
+      "description": "Learn the fundamentals of graphic design, including color theory, typography, and composition.",
+      "price": 99.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design Principles",
+      "slug": "ui-ux-design-principles",
+      "description": "Master the principles of UI/UX design to create user-friendly and aesthetically pleasing interfaces.",
+      "price": 109.99,
+      "instructor": "Bob Smith",
+      "isFeatured": false,
+      "image": "/courses/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Photoshop Techniques",
+      "slug": "advanced-photoshop-techniques",
+      "description": "Enhance your Photoshop skills with advanced techniques for photo editing and graphic creation.",
+      "price": 119.99,
+      "instructor": "Charlie Brown",
+      "isFeatured": true,
+      "image": "/courses/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Illustrator for Beginners",
+      "slug": "illustrator-for-beginners",
+      "description": "Get started with Adobe Illustrator and learn how to create stunning vector graphics.",
+      "price": 129.99,
+      "instructor": "Diana Evans",
+      "isFeatured": false,
+      "image": "/courses/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Web Design Fundamentals",
+      "slug": "web-design-fundamentals",
+      "description": "Learn the basics of web design, including HTML, CSS, and responsive design techniques.",
+      "price": 139.99,
+      "instructor": "Edward Turner",
+      "isFeatured": false,
+      "image": "/courses/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Motion Graphics with After Effects",
+      "slug": "motion-graphics-after-effects",
+      "description": "Dive into motion graphics and animation using Adobe After Effects.",
+      "price": 149.99,
+      "instructor": "Fiona Green",
+      "isFeatured": true,
+      "image": "/courses/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "3D Modeling with Blender",
+      "slug": "3d-modeling-blender",
+      "description": "Learn the essentials of 3D modeling and animation using Blender.",
+      "price": 159.99,
+      "instructor": "George White",
+      "isFeatured": false,
+      "image": "/courses/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Creative Typography",
+      "slug": "creative-typography",
+      "description": "Explore the art of typography and learn how to create visually appealing text designs.",
+      "price": 169.99,
+      "instructor": "Hannah Brown",
+      "isFeatured": true,
+      "image": "/courses/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Digital Illustration Techniques",
+      "slug": "digital-illustration-techniques",
+      "description": "Master digital illustration with techniques for creating stunning artwork.",
+      "price": 179.99,
+      "instructor": "Ian Blue",
+      "isFeatured": false,
+      "image": "/courses/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Design Thinking and Innovation",
+      "slug": "design-thinking-innovation",
+      "description": "Learn the principles of design thinking to drive innovation and solve complex problems.",
+      "price": 189.99,
+      "instructor": "Jane Black",
+      "isFeatured": true,
+      "image": "/courses/10.jpg"
+    }
+  ]
+}
